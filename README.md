@@ -51,4 +51,5 @@ The OS pwns you. Asenna Windows virtuaalikoneeseen samaan verkkoon hyökkäyskon
 
 # b.)
 
+Trustme.lnk. Kokeile PhishSticksin revshell vihamielistä tiedostoa, joka avaa käänteisen shellin hyökkääjän koneelle. Selitä, mitä tapahtuu ja miksi. Testaa, että pysyt antamaan kohdekoneelle komentoja reverse shellin kautta.
 
