@@ -3,6 +3,7 @@
 
 # a.)
 
+The OS pwns you. Asenna Windows virtuaalikoneeseen samaan verkkoon hyökkäyskoneen kanssa. Kokeile, että saat koneen irrotettua Internetistä.
 
 
 <img width="973" alt="okokokokok" src="https://github.com/AkiAleksi/h6/assets/112399816/6888f3ed-27bf-4096-9e6f-7cb58c0f8e2f">
