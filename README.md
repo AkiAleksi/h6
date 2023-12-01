@@ -49,4 +49,6 @@ The OS pwns you. Asenna Windows virtuaalikoneeseen samaan verkkoon hyökkäyskon
 <img width="493" alt="loputulos" src="https://github.com/AkiAleksi/h6/assets/112399816/e19d0f9e-15fb-47f7-bc5a-9bd20d13aaae">
 
 
+# b.)
+
 
