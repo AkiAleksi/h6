@@ -108,5 +108,18 @@ Meillä on pääsy siihen. Pääsin settings-objektiin. Syöttämällä {{settin
 <img width="589" alt="Screenshot 2023-12-02 at 21 05 05" src="https://github.com/AkiAleksi/h6/assets/112399816/2371b25a-60e1-4331-82dd-7927185b34f9">
 
 
+# Content injection (T1659)
+
+"Content injection" (sisällön ruiskutus) viittaa tilanteeseen, jossa hyökkääjä pystyy lisäämään tai muuttamaan sisältöä tiettyyn sovellukseen tai palveluun. Tämä voi tapahtua erityyppisissä yhteyksissä, ja termiä käytetään yleensä kuvaamaan tilannetta, jossa ei-toivottua tai haitallista sisältöä lisätään esimerkiksi verkkosivuille, tietokantoihin tai muihin tietojärjestelmiin.
+
+
+Tähän kohtaan sopii sql-injektio. Tein Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data. 
+
+Muutin kategoria-parametriä antamalla sille arvoksi '+OR+1=1--. Lab ratkaistu. 
+
+<img width="380" alt="Screenshot 2023-11-18 at 12 36 00" src="https://github.com/AkiAleksi/h6/assets/112399816/6b463b8a-9e03-4722-9184-bf50573d7dbe">
+
+
+
 
 
