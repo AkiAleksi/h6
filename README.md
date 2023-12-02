@@ -68,6 +68,9 @@ Trustme.lnk. Kokeile PhishSticksin revshell vihamielistä tiedostoa, joka avaa k
 
 <img width="408" alt="Screenshot 2023-12-01 at 20 00 42" src="https://github.com/AkiAleksi/h6/assets/112399816/2d4d46ec-bf4b-4372-a814-2f5cd6460d18">
 
+-Eli tuolla luomassani phish-kansiossa komennolla python3 -m http.server 80 saadaan web-palvelin päälle, josta tuo revshell-skripti saa ladattua setit. Tämän jälkeen voidaan myös netcut laittaa päälle ja kuuntelemaan tuota määriteltyä porttia komennolla: nc -lvnp 9001.
+
+-Nyt kun ajetaan tuo revshell-skripti tuolta kohdekoneelta pitäisi sen ensinäkin ladata nc64.exe ja raport.txt, sekä käynnistää Netcut piilotetussa Powershell-ikkunassa, ja ottaa yhteys hyökkäyskoneelle, sekä tuon raport.txt -tiedoston pitäisi aueta käyttäjälle.
 
 <img width="744" alt="Screenshot 2023-12-01 at 20 16 28" src="https://github.com/AkiAleksi/h6/assets/112399816/f7908527-e87b-40a2-bb26-d5cbe3bf073d">
 
