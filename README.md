@@ -78,3 +78,14 @@ Trustme.lnk. Kokeile PhishSticksin revshell vihamielistä tiedostoa, joka avaa k
 
 
 <img width="1260" alt="Screenshot 2023-12-01 at 20 17 30" src="https://github.com/AkiAleksi/h6/assets/112399816/133103d6-20df-45b4-9ce4-ad221cda6b83">
+
+# d.)
+PageRank. Laita linkki raporttiisi kurssisivun kommentiksi.
+Kannattaa mainita URL sekä leipätekstissä ("Comment") että kotisivun osoitteessa ("Homepage"), jotta sitä on helppo klikata. Yksikin lause sisällöstä tai jostain kiinostavasta huomiosta lisännee klikkauksia
+
+
+# c.)
+
+
+Attaaack! MITRE Attack Enterprise Matrix: Demonstroi viisi tekniikkaa viidestä eri taktiikasta.
+Tekniikkaa tulee kokeilla käytännössä, kuvailu ei riitä. Asenna tarvittaessa omat harjoitusmaalit. Eristä tarvittaessa koneet Internetistä harjoittelun ajaksi. Voit käyttää kurssilla jo opeteltuja työkaluja (helpompaa) tai kokeilla uusia. Aiemminkin käytetyistä tekniikoista pitää tehdä uusi demonstraatio tässä tehtävässä. Mikäli haluat tehtävästä helpon version, tekniikoiden valinta auttaa. Tuolta löytyy myös tuttuja ja helppoja tekniikoita. Selitä, mitä esimerkissä tapahtuu. Nimeä käytetyt taktiikat, tekniikat ja alitekniikat. Merkitse myös numerot T0123.456.
