@@ -2,7 +2,7 @@
 
 # x
 
-Yehoshua and Kosayev 2021: Antivirus Bypass Techniques, luku: Chapter 1: Introduction to the Security Landscape
+# Yehoshua and Kosayev 2021: Antivirus Bypass Techniques, luku: Chapter 1: Introduction to the Security Landscape
 
 -Kerrotaan, että kyberrikollisuutta on olemassa rahan takia. Kyberrikollisuudella on mahdollista tienata rahaa.
 
@@ -10,13 +10,13 @@ Yehoshua and Kosayev 2021: Antivirus Bypass Techniques, luku: Chapter 1: Introdu
 
 -Antivirusohjelma on yleisin tapa suojautua uhilta. Ne voidaan jakaa 4 kategoriaan toimintatavan perusteella (staattinen, dynaaminen, heuristinen ja pakkausten purkaminen)
 
-Halonen, Rajala ja Ollikainen 2023: PhishSticks Youtube Channel:
+# Halonen, Rajala ja Ollikainen 2023: PhishSticks Youtube Channel:
 
 -Käsittelee reverse shelliä.
 
 -Muissa videoissa aiheena digispark ja kiristysohjelma.
 
-Halonen, Rajala ja Ollikainen 2023: PhishSticks Git Repository, sivut:
+# Halonen, Rajala ja Ollikainen 2023: PhishSticks Git Repository, sivut:
 
 -Käydään läpi reverse shell
 
@@ -24,7 +24,7 @@ Halonen, Rajala ja Ollikainen 2023: PhishSticks Git Repository, sivut:
 
 -Windows 10 asennusohje virtuaalikoneeseen.
 
-MITRE Att&ck Frequently Asked Questions: Part 1. General.
+# MITRE Att&ck Frequently Asked Questions: Part 1. General.
 Erityisesti kehikon omat määritelmät termeille tactics, techniques and procedures
 
 -Tactics: Mitä hyökkääjä haluaa saavuttaa
@@ -32,7 +32,7 @@ Erityisesti kehikon omat määritelmät termeille tactics, techniques and proced
 -sub-techniques: Tarkempi kuvaus taktiikasta
 
 
-MITRE Att&ck Enterprise Matrix
+# MITRE Att&ck Enterprise Matrix
 Silmäile, poimi muutama esimerkki. Koko kehikko on laaja, eikä sitä tarvitse lukea tässä kokonaan.
 
 -Exploitation for Client Execution
@@ -121,8 +121,10 @@ revshell yhteys on auki. Avasin hello.txt tiedoston revshellin kautta.
 <img width="1260" alt="Screenshot 2023-12-01 at 20 17 30" src="https://github.com/AkiAleksi/h6/assets/112399816/133103d6-20df-45b4-9ce4-ad221cda6b83">
 
 # d.)
-PageRank. Laita linkki raporttiisi kurssisivun kommentiksi.
-Kannattaa mainita URL sekä leipätekstissä ("Comment") että kotisivun osoitteessa ("Homepage"), jotta sitä on helppo klikata. Yksikin lause sisällöstä tai jostain kiinostavasta huomiosta lisännee klikkauksia
+
+
+Laitoin linkin rapportiinni kurssisivun kommentiksi.
+
 
 
 # c.)
@@ -166,12 +168,12 @@ Phishing on huijauskeino, jossa hyökkääjä pyrkii hankkimaan henkilökohtaisi
 # Forced authentication (T1187)
 
 
-"Forced Authentication" (pakotettu tunnistautuminen) tarkoittaa tilannetta, jossa hyökkääjä kerää tunnistetietoja saamalla käyttäjän automaattisesti antamaan tunnistautumistiedot mekanismin avulla, jonka kautta hyökkääjä voi väliin mennä ja siepata nämä tiedot.
+Forced Authentication tarkoittaa tilannetta, jossa hyökkääjä kerää tunnistetietoja saamalla käyttäjän automaattisesti antamaan tunnistautumistiedot mekanismin avulla, jonka kautta hyökkääjä voi väliin mennä ja siepata nämä tiedot.
 
 
 # Access token manipulation (T1134)
 
-Access Token Manipulation" on tekniikka, jota hyökkääjät käyttävät muuttaakseen pääsytunnuksia (access token) toimiakseen eri käyttäjän tai järjestelmän turvayhteydessä suorittaakseen toimintoja ja kiertääkseen pääsytarkistuksia. Windows-käyttöjärjestelmä käyttää pääsytokeneita määrittääkseen prosessin suorittajan. Käyttäjä voi manipuloida pääsytokeneita tekemällä käynnissä olevan prosessin näyttämään siltä, ​​kuin se olisi eri prosessin lapsi tai kuin se kuuluisi toiselle käyttäjälle kuin se, joka käynnisti prosessin. Tällöin prosessi ottaa myös uuden pääsytunnuksen liittyneenä siihen turvayhteyteen.
+Access Token Manipulation on tekniikka, jota hyökkääjät käyttävät muuttaakseen pääsytunnuksia toimiakseen eri käyttäjän tai järjestelmän turvayhteydessä suorittaakseen toimintoja ja kiertääkseen pääsytarkistuksia. Windows-käyttöjärjestelmä käyttää pääsytokeneita määrittääkseen prosessin suorittajan. Käyttäjä voi manipuloida pääsytokeneita tekemällä käynnissä olevan prosessin näyttämään siltä, ​​kuin se olisi eri prosessin lapsi tai kuin se kuuluisi toiselle käyttäjälle kuin se, joka käynnisti prosessin. Tällöin prosessi ottaa myös uuden pääsytunnuksen liittyneenä siihen turvayhteyteen.
 
 
 # Lähteet
