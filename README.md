@@ -1,5 +1,44 @@
 # h6
 
+# x
+
+Yehoshua and Kosayev 2021: Antivirus Bypass Techniques, luku: Chapter 1: Introduction to the Security Landscape
+
+-Kerrotaan, että kyberrikollisuutta on olemassa rahan takia. Kyberrikollisuudella on mahdollista tienata rahaa.
+
+-On olemassa erilaisia haittaohjelmia, jotka voidaan luokitella päätarkoituksien mukaan.
+
+-Antivirusohjelma on yleisin tapa suojautua uhilta. Ne voidaan jakaa 4 kategoriaan toimintatavan perusteella (staattinen, dynaaminen, heuristinen ja pakkausten purkaminen)
+
+Halonen, Rajala ja Ollikainen 2023: PhishSticks Youtube Channel:
+
+-Käsittelee reverse shelliä.
+
+-Muissa videoissa aiheena digispark ja kiristysohjelma.
+
+Halonen, Rajala ja Ollikainen 2023: PhishSticks Git Repository, sivut:
+
+-Käydään läpi reverse shell
+
+- Käydään läpi keinoja hyökkäyksen estämiseksi esim. powershellin esto käyttäjältä.
+
+-Windows 10 asennusohje virtuaalikoneeseen.
+
+MITRE Att&ck Frequently Asked Questions: Part 1. General.
+Erityisesti kehikon omat määritelmät termeille tactics, techniques and procedures
+
+-Tactics: Mitä hyökkääjä haluaa saavuttaa
+-Techniques: Miten tavoitteeseen päästään.
+-sub-techniques: Tarkempi kuvaus taktiikasta
+
+
+MITRE Att&ck Enterprise Matrix
+Silmäile, poimi muutama esimerkki. Koko kehikko on laaja, eikä sitä tarvitse lukea tässä kokonaan.
+
+-Exploitation for Client Execution
+Vastustajat saattavat hyödyntää asiakasohjelmien ohjelmistohaavoittuvuuksia suorittaakseen koodia. 
+Haavoittuvuudet voivat johtua epävarmoista koodauskäytännöistä, jotka voivat aiheuttaa ennalta arvaamatonta käyttäytymistä.
+
 
 # a.)
 
@@ -133,4 +172,11 @@ Phishing on huijauskeino, jossa hyökkääjä pyrkii hankkimaan henkilökohtaisi
 # Access token manipulation (T1134)
 
 Access Token Manipulation" on tekniikka, jota hyökkääjät käyttävät muuttaakseen pääsytunnuksia (access token) toimiakseen eri käyttäjän tai järjestelmän turvayhteydessä suorittaakseen toimintoja ja kiertääkseen pääsytarkistuksia. Windows-käyttöjärjestelmä käyttää pääsytokeneita määrittääkseen prosessin suorittajan. Käyttäjä voi manipuloida pääsytokeneita tekemällä käynnissä olevan prosessin näyttämään siltä, ​​kuin se olisi eri prosessin lapsi tai kuin se kuuluisi toiselle käyttäjälle kuin se, joka käynnisti prosessin. Tällöin prosessi ottaa myös uuden pääsytunnuksen liittyneenä siihen turvayhteyteen.
+
+
+# Lähteet
+
+
+
+https://terokarvinen.com/2023/eettinen-hakkerointi-2023/
 
