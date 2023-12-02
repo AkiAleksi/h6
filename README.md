@@ -176,7 +176,9 @@ Access Token Manipulation" on tekniikka, jota hyökkääjät käyttävät muutta
 
 # Lähteet
 
-
+https://www.imperva.com/learn/application-security/reverse-shell/
 
 https://terokarvinen.com/2023/eettinen-hakkerointi-2023/
+
+https://www.extremetech.com/computing/198427-how-to-install-windows-10-in-a-virtual-machine
 
