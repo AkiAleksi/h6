@@ -94,6 +94,15 @@ Tekniikkaa tulee kokeilla käytännössä, kuvailu ei riitä. Asenna tarvittaess
 
 # Templete injection (T1221)
 
+Tein Portswigger Lab: Server-side template injection with information disclosure via user-supplied objects. Se on templete injection.
+
+Serverin puoleinen mallin syöttöruiskutus (Server-Side Template Injection eli SSTI) on tietoturvaongelma, joka tapahtuu, kun hyökkääjä pystyy injektoimaan haitallista koodia palvelimen puoleisen mallin sisään. Tämä voi aiheuttaa erilaisia tietoturvariskejä, mukaan lukien tietojen paljastuminen. SSTI:n yhteydessä tietojen paljastuminen liittyy usein herkkien tietojen tai järjestelmätietojen käyttöön.
+
+Syöttämällä {% debug %} -komento templateen edit-kohdassa tulee objektilista näkyviin.
+Meillä on pääsy siihen. Pääsin settings-objektiin. Syöttämällä {{settings.SECRET_KEY}} komennon templateen editissä. Labra ratkaistu.
+
+
+
 
 
 <img width="589" alt="Screenshot 2023-12-02 at 21 05 05" src="https://github.com/AkiAleksi/h6/assets/112399816/2371b25a-60e1-4331-82dd-7927185b34f9">
