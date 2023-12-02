@@ -74,6 +74,7 @@ Trustme.lnk. Kokeile PhishSticksin revshell vihamielistä tiedostoa, joka avaa k
 
 <img width="744" alt="Screenshot 2023-12-01 at 20 16 28" src="https://github.com/AkiAleksi/h6/assets/112399816/f7908527-e87b-40a2-bb26-d5cbe3bf073d">
 
+-revshell yhteys on auki. Avasin hello.txt 
 
 
 <img width="1260" alt="Screenshot 2023-12-01 at 20 17 30" src="https://github.com/AkiAleksi/h6/assets/112399816/133103d6-20df-45b4-9ce4-ad221cda6b83">
