@@ -62,21 +62,21 @@ Trustme.lnk. Kokeile PhishSticksin revshell vihamielistä tiedostoa, joka avaa k
 
 <img width="718" alt="Screenshot 2023-12-01 at 19 53 23" src="https://github.com/AkiAleksi/h6/assets/112399816/e2c30517-c2dc-4916-91df-dbdc5b7dc0a8">
 
--Seuraavaksi tuo revshell-skripti tuonne kohdekoneelle, ja sinne määritetään oikea ip-osoite ja portti, johon reverse shelli sitten ottaa yhteyttä.
+Latasin revshell-skripti kohdekoneelle. Määritin sille oikean ip-osoitteen ja portin. Reverse shelli ottaa yhteyttä siihen.
 
 <img width="509" alt="Screenshot 2023-12-01 at 19 56 27" src="https://github.com/AkiAleksi/h6/assets/112399816/f1582b81-aa5d-4fca-ba10-3cf806584647">
 
--Tein myös hello txt filen kansioon. Tiedostossa luki hello.
+Tein myös hello txt filen kansioon. Tiedostossa luki hello.
 
 <img width="408" alt="Screenshot 2023-12-01 at 20 00 42" src="https://github.com/AkiAleksi/h6/assets/112399816/2d4d46ec-bf4b-4372-a814-2f5cd6460d18">
 
--Eli tuolla luomassani phish-kansiossa komennolla python3 -m http.server 80 saadaan web-palvelin päälle, josta tuo revshell-skripti saa ladattua setit. Tämän jälkeen voidaan myös netcut laittaa päälle ja kuuntelemaan tuota määriteltyä porttia komennolla: nc -lvnp 9001.
+Komennolla python3 -m http.server 80 web-palvelin käynnistyy. Revshell-skripti lataa siitä tarvittavat asiat. komennolla nc -lvnp 9001 netcut menee päälle.
 
--Nyt kun ajetaan tuo revshell-skripti tuolta kohdekoneelta pitäisi sen ensinäkin ladata nc64.exe ja raport.txt, sekä käynnistää Netcut piilotetussa Powershell-ikkunassa, ja ottaa yhteys hyökkäyskoneelle, sekä tuon raport.txt -tiedoston pitäisi aueta käyttäjälle.
+Kun ajetaan revshell-skripti kohdekoneelta se lataa nc64.exe ja raport.txt. Se käynnistää myös Netcut piilotetussa Powershell-ikkunassa. Se ottaa yhteyttä hyökkäyskoneelle. raport.txt -tiedosto aukeaa.
 
 <img width="744" alt="Screenshot 2023-12-01 at 20 16 28" src="https://github.com/AkiAleksi/h6/assets/112399816/f7908527-e87b-40a2-bb26-d5cbe3bf073d">
 
--revshell yhteys on auki. Avasin hello.txt tiedoston revshellin kautta.
+revshell yhteys on auki. Avasin hello.txt tiedoston revshellin kautta.
 
 
 <img width="1260" alt="Screenshot 2023-12-01 at 20 17 30" src="https://github.com/AkiAleksi/h6/assets/112399816/133103d6-20df-45b4-9ce4-ad221cda6b83">
