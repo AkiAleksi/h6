@@ -119,7 +119,10 @@ Muutin kategoria-parametriä antamalla sille arvoksi '+OR+1=1--. Lab ratkaistu.
 
 <img width="380" alt="Screenshot 2023-11-18 at 12 36 00" src="https://github.com/AkiAleksi/h6/assets/112399816/6b463b8a-9e03-4722-9184-bf50573d7dbe">
 
+# Phishing (T1566)
 
+
+Phishing on huijauskeino, jossa hyökkääjä pyrkii hankkimaan henkilökohtaisia tietoja, kuten käyttäjätunnuksia, salasanoja tai taloudellisia tietoja, esiintymällä luotettavana tahona. Tavallisesti tämä tapahtuu sähköpostin, tekstiviestin tai verkkosivuston kautta, jotka näyttävät olevan laillisia, mutta ovatkin huijaavia. Phishing-hyökkäyksen tavoitteena on houkutella uhri paljastamaan arkaluonteisia tietoja, jotka voivat sitten johtaa identiteettivarkauteen tai taloudellisiin petoksiin. Uhrien varoittaminen olla jakamatta henkilökohtaisia tietojaan epäilyttäville lähteille on tärkeää phishingin torjumisessa.
 
 
 
