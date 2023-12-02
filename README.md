@@ -60,6 +60,7 @@ Trustme.lnk. Kokeile PhishSticksin revshell vihamielistä tiedostoa, joka avaa k
 
 <img width="718" alt="Screenshot 2023-12-01 at 19 53 23" src="https://github.com/AkiAleksi/h6/assets/112399816/e2c30517-c2dc-4916-91df-dbdc5b7dc0a8">
 
+Seuraavaksi tuo revshell-skripti tuonne kohdekoneelle, ja sinne määritetään oikea ip-osoite ja portti, johon reverse shelli sitten ottaa yhteyttä.
 
 <img width="509" alt="Screenshot 2023-12-01 at 19 56 27" src="https://github.com/AkiAleksi/h6/assets/112399816/f1582b81-aa5d-4fca-ba10-3cf806584647">
 
