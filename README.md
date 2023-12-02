@@ -124,5 +124,13 @@ Muutin kategoria-parametriä antamalla sille arvoksi '+OR+1=1--. Lab ratkaistu.
 
 Phishing on huijauskeino, jossa hyökkääjä pyrkii hankkimaan henkilökohtaisia tietoja, kuten käyttäjätunnuksia, salasanoja tai taloudellisia tietoja, esiintymällä luotettavana tahona. Tavallisesti tämä tapahtuu sähköpostin, tekstiviestin tai verkkosivuston kautta, jotka näyttävät olevan laillisia, mutta ovatkin huijaavia. Phishing-hyökkäyksen tavoitteena on houkutella uhri paljastamaan arkaluonteisia tietoja, jotka voivat sitten johtaa identiteettivarkauteen tai taloudellisiin petoksiin. Uhrien varoittaminen olla jakamatta henkilökohtaisia tietojaan epäilyttäville lähteille on tärkeää phishingin torjumisessa.
 
+# Forced authentication (T1187)
 
+
+"Forced Authentication" (pakotettu tunnistautuminen) tarkoittaa tilannetta, jossa hyökkääjä kerää tunnistetietoja saamalla käyttäjän automaattisesti antamaan tunnistautumistiedot mekanismin avulla, jonka kautta hyökkääjä voi väliin mennä ja siepata nämä tiedot.
+
+
+# Access token manipulation (T1134)
+
+Access Token Manipulation" on tekniikka, jota hyökkääjät käyttävät muuttaakseen pääsytunnuksia (access token) toimiakseen eri käyttäjän tai järjestelmän turvayhteydessä suorittaakseen toimintoja ja kiertääkseen pääsytarkistuksia. Windows-käyttöjärjestelmä käyttää pääsytokeneita määrittääkseen prosessin suorittajan. Käyttäjä voi manipuloida pääsytokeneita tekemällä käynnissä olevan prosessin näyttämään siltä, ​​kuin se olisi eri prosessin lapsi tai kuin se kuuluisi toiselle käyttäjälle kuin se, joka käynnisti prosessin. Tällöin prosessi ottaa myös uuden pääsytunnuksen liittyneenä siihen turvayhteyteen.
 
