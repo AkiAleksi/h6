@@ -6,13 +6,13 @@
 The OS pwns you. Asenna Windows virtuaalikoneeseen samaan verkkoon hyökkäyskoneen kanssa. Kokeile, että saat koneen irrotettua Internetistä.
 
 
-
+Loin uuden virtuaalikoneen. Valitsin tyypin ja version(windows 10).
 
 
 <img width="973" alt="okokokokok" src="https://github.com/AkiAleksi/h6/assets/112399816/6888f3ed-27bf-4096-9e6f-7cb58c0f8e2f">
 
 
-
+Asetin muistin.
 
 
 <img width="968" alt="öööööö" src="https://github.com/AkiAleksi/h6/assets/112399816/ecbb0220-03c8-4a71-b5b3-f2bbfd08ef2b">
@@ -21,7 +21,7 @@ The OS pwns you. Asenna Windows virtuaalikoneeseen samaan verkkoon hyökkäyskon
 
 
 
-
+Laitoin tallenustilan
 
 
 
@@ -31,7 +31,8 @@ The OS pwns you. Asenna Windows virtuaalikoneeseen samaan verkkoon hyökkäyskon
 
 
 
-
+Avasin virtuaalikoneen.
+Tein setupin.
 
 
 <img width="512" alt="öäöäööääö" src="https://github.com/AkiAleksi/h6/assets/112399816/0f3c6775-3ff5-419c-940d-5bb0718ee5a6">
@@ -89,3 +90,13 @@ Kannattaa mainita URL sekä leipätekstissä ("Comment") että kotisivun osoitte
 
 Attaaack! MITRE Attack Enterprise Matrix: Demonstroi viisi tekniikkaa viidestä eri taktiikasta.
 Tekniikkaa tulee kokeilla käytännössä, kuvailu ei riitä. Asenna tarvittaessa omat harjoitusmaalit. Eristä tarvittaessa koneet Internetistä harjoittelun ajaksi. Voit käyttää kurssilla jo opeteltuja työkaluja (helpompaa) tai kokeilla uusia. Aiemminkin käytetyistä tekniikoista pitää tehdä uusi demonstraatio tässä tehtävässä. Mikäli haluat tehtävästä helpon version, tekniikoiden valinta auttaa. Tuolta löytyy myös tuttuja ja helppoja tekniikoita. Selitä, mitä esimerkissä tapahtuu. Nimeä käytetyt taktiikat, tekniikat ja alitekniikat. Merkitse myös numerot T0123.456.
+
+# Templete injection (T1221)
+
+
+
+<img width="589" alt="Screenshot 2023-12-02 at 21 05 05" src="https://github.com/AkiAleksi/h6/assets/112399816/2371b25a-60e1-4331-82dd-7927185b34f9">
+
+
+
+
