@@ -137,10 +137,10 @@ Tekniikkaa tulee kokeilla käytännössä, kuvailu ei riitä. Asenna tarvittaess
 
 Tein Portswigger Lab: Server-side template injection with information disclosure via user-supplied objects. Se on templete injection.
 
-Serverin puoleinen mallin syöttöruiskutus (Server-Side Template Injection eli SSTI) on tietoturvaongelma, joka tapahtuu, kun hyökkääjä pystyy injektoimaan haitallista koodia palvelimen puoleisen mallin sisään. Tämä voi aiheuttaa erilaisia tietoturvariskejä, mukaan lukien tietojen paljastuminen. SSTI:n yhteydessä tietojen paljastuminen liittyy usein herkkien tietojen tai järjestelmätietojen käyttöön.
+Server-Side Template Injection eli SSTI on tietoturvaongelma, joka tapahtuu, kun hyökkääjä pystyy injektoimaan haitallista koodia palvelimen puoleisen mallin sisään. Tämä voi aiheuttaa erilaisia tietoturvariskejä, mukaan lukien tietojen paljastuminen. SSTI:n yhteydessä tietojen paljastuminen liittyy usein herkkien tietojen tai järjestelmätietojen käyttöön.
 
 Syöttämällä {% debug %} -komento templateen edit-kohdassa tulee objektilista näkyviin.
-Meillä on pääsy siihen. Pääsin settings-objektiin. Syöttämällä {{settings.SECRET_KEY}} komennon templateen editissä. Labra ratkaistu.
+Meillä on pääsy siihen. Pääsin settings-objektiin. Syöttämällä {{settings.SECRET_KEY}} komennon templateen editissä.
 
 
 
@@ -149,9 +149,12 @@ Meillä on pääsy siihen. Pääsin settings-objektiin. Syöttämällä {{settin
 <img width="589" alt="Screenshot 2023-12-02 at 21 05 05" src="https://github.com/AkiAleksi/h6/assets/112399816/2371b25a-60e1-4331-82dd-7927185b34f9">
 
 
+ Labra ratkaistu.
+
+
 # Content injection (T1659)
 
-"Content injection" (sisällön ruiskutus) viittaa tilanteeseen, jossa hyökkääjä pystyy lisäämään tai muuttamaan sisältöä tiettyyn sovellukseen tai palveluun. Tämä voi tapahtua erityyppisissä yhteyksissä, ja termiä käytetään yleensä kuvaamaan tilannetta, jossa ei-toivottua tai haitallista sisältöä lisätään esimerkiksi verkkosivuille, tietokantoihin tai muihin tietojärjestelmiin.
+Content injection viittaa tilanteeseen, jossa hyökkääjä pystyy lisäämään tai muuttamaan sisältöä tiettyyn sovellukseen tai palveluun. Tämä voi tapahtua erityyppisissä yhteyksissä, ja termiä käytetään yleensä kuvaamaan tilannetta, jossa ei-toivottua tai haitallista sisältöä lisätään esimerkiksi verkkosivuille, tietokantoihin tai muihin tietojärjestelmiin.
 
 
 Tähän kohtaan sopii sql-injektio. Tein Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data. 
