@@ -58,7 +58,7 @@ Windows kone on irroitettu netistä.
 
 Trustme.lnk. Kokeile PhishSticksin revshell vihamielistä tiedostoa, joka avaa käänteisen shellin hyökkääjän koneelle. Selitä, mitä tapahtuu ja miksi. Testaa, että pysyt antamaan kohdekoneelle komentoja reverse shellin kautta.
 
--Laitoin ensiksi hyökkäyskoneelle Netcutin exen. Tein raport.txt tiedoston. Laitoin ne omaan kansioonsa.
+Laitoin ensiksi hyökkäyskoneelle Netcutin exen. Tein raport.txt tiedoston. Laitoin ne omaan kansioonsa.
 
 <img width="718" alt="Screenshot 2023-12-01 at 19 53 23" src="https://github.com/AkiAleksi/h6/assets/112399816/e2c30517-c2dc-4916-91df-dbdc5b7dc0a8">
 
