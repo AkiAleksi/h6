@@ -20,7 +20,8 @@ Siitä ei kuitenkaan tullut otettua screenshottia.
 
 
 
-
+Avasin virtuaalikoneen.
+Tein setupin.
 
 
 
@@ -31,8 +32,7 @@ Siitä ei kuitenkaan tullut otettua screenshottia.
 
 
 
-Avasin virtuaalikoneen.
-Tein setupin.
+Windows aukesi
 
 
 <img width="512" alt="öäöäööääö" src="https://github.com/AkiAleksi/h6/assets/112399816/0f3c6775-3ff5-419c-940d-5bb0718ee5a6">
