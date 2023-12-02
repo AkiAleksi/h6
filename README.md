@@ -38,7 +38,8 @@ Windows aukesi
 <img width="512" alt="öäöäööääö" src="https://github.com/AkiAleksi/h6/assets/112399816/0f3c6775-3ff5-419c-940d-5bb0718ee5a6">
 
 
-
+Muutin network kohdasta asetuksia, jotta hyökkääjän ja kohteen välille saadaan oma verkko.
+Valitsin host-only network, jossa hyökkäävä kone on kiinni.
 
 
 
@@ -46,7 +47,7 @@ Windows aukesi
 <img width="705" alt="plplplplplplpl" src="https://github.com/AkiAleksi/h6/assets/112399816/d7f6932e-9c14-4c8d-9570-2d7db3bad45e">
 
 
-
+Windows kone on irroitettu netistä.
 
 
 
